@@ -1,0 +1,21 @@
+div#statusView {
+  background-color: lightgray;
+  height: 50px;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+div#numShapesMessage {
+  display:flex;
+  width: 150px;
+  text-align: left;
+}
+
+div#numSelectedMessage {
+  width: 200px;
+  text-align: right;
+  justify-self: flex-end;
+}

@@ -1,0 +1,17 @@
+div#toolbar {
+  background-color: lightgray;
+  height: 50px;
+  flex: 0 0 auto;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  button {
+    width: 80px;
+  }
+  
+  select {
+    width: 85px;
+  }
+}

@@ -1,0 +1,10 @@
+* why buttons are not disabled? (add button is not disabled when exceeding 25 shapes. Delete button is not enabled
+  when shapes are selected)
+* Why doesn't the form labels & input boxes align perfectly?
+* Why we need to click on the same shape twice when switching the currently selected shape from one type to another?
+  (e.g., currently selecting a square, first click on a cat reset the edit view to message view, then second click
+  selects the shape)
+
+* Take a look at the editShapeView.css, editMessageView.css, style.css? Not shown in the solution video.
+
+* What is the mockup folder in the solution directory?

@@ -1,0 +1,32 @@
+div#list {
+  background-color:white;
+  flex: 1;
+
+  display:flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  align-content: start;
+  overflow-y: scroll;
+
+  canvas {
+    width: 50px;
+    height: 50px;
+    border: 1px solid lightgrey;
+  }
+
+  canvas:hover {
+    outline: 4px solid lightblue;
+  }
+
+  canvas.selected {
+    outline: 1px solid blue;
+    outline-offset: 2px;
+  }
+
+  canvas.selected:hover {
+    outline: 4px solid blue;
+    outline-offset: 0px;
+  }
+}
+

@@ -1,0 +1,11 @@
+div#toolbar {
+  background-color: lightgrey;
+  height: 50px;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+div#toolbar > * {
+  width: 85px;
+}

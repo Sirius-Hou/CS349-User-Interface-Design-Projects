@@ -1,0 +1,31 @@
+div#listView {
+  display: flex;
+  flex: 1;
+  background-color: white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 20px;
+  padding: 20px;
+  overflow: auto;
+
+  canvas {
+    width: 50px;
+    height: 50px;
+    border: 1px solid lightgrey ;
+  }
+
+  canvas:hover {
+    outline: 4px solid lightblue;
+  }
+
+  canvas.selected {
+    outline: 1px solid blue;
+    outline-offset: 2px;
+  }
+
+  canvas.selected:hover {
+    outline: 4px solid blue;
+    outline-offset: 0px;
+  }
+}
