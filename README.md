@@ -1,0 +1,2 @@
+# CS 349: User Interfaces
+**An introduction to contemporary user interface implementation concepts, including event abstraction, graphical components, layout, feedback, testing, accessibility, and architectures to develop user interfaces. One or more types of interface toolkit paradigms are considered. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work.]**
