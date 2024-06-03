@@ -15,7 +15,7 @@
 
 *A3:*
 
-<img src="https://github.com/Sirius-Hou/CS349-User-Interface-Design-Projects/assets/118148925/de8de4b9-07cc-4443-85e3-0ff92d78208c" alt="image" width="50%" height="50%">
+<img src="https://github.com/Sirius-Hou/CS349-User-Interface-Design-Projects/assets/118148925/1e84c3de-bff6-4c0c-b101-4cdd89845a56" alt="image" width="50%" height="50%">
 
 *A4:*
 
