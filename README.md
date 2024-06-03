@@ -19,4 +19,4 @@
 
 *A4:*
 
-<img src="https://github.com/Sirius-Hou/CS349-User-Interface-Design-Projects/assets/118148925/5c054c43-6e09-493d-a1fa-b2287851e94c" alt="image" width="50%" height="50%">
+<img src="https://github.com/Sirius-Hou/CS349-User-Interface-Design-Projects/assets/118148925/8bd02d62-47f1-4b56-84f2-3505be9f8125" alt="image" width="50%" height="50%">
