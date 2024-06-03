@@ -4,6 +4,7 @@
 *An introduction to contemporary user interface implementation concepts, including event abstraction, graphical components, layout, feedback, testing, accessibility, and architectures to develop user interfaces. One or more types of interface toolkit paradigms are considered.*
 
 ### Projects:
+
 *A1:*
 
 <img src="https://github.com/Sirius-Hou/CS349-User-Interface-Design-Projects/assets/118148925/53170c0f-20d8-4e6a-a98c-320b7b8e9a3f" alt="image" width="50%" height="50%">
@@ -16,6 +17,6 @@
 
 <img src="https://github.com/Sirius-Hou/CS349-User-Interface-Design-Projects/assets/118148925/de8de4b9-07cc-4443-85e3-0ff92d78208c" alt="image" width="50%" height="50%">
 
-
 *A4:*
 
+<img src="https://github.com/Sirius-Hou/CS349-User-Interface-Design-Projects/assets/118148925/5c054c43-6e09-493d-a1fa-b2287851e94c" alt="image" width="50%" height="50%">
